@@ -1,10 +1,7 @@
 import com.sun.tools.javac.util.Pair;
 import model.*;
 
-import java.util.Deque;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 
 public class TicTacToeGame {
     Deque<Player> players;

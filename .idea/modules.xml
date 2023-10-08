@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ChainOfResponsibilityDesignPattern/ChainOfResponsibilityDesignPattern.iml" filepath="$PROJECT_DIR$/ChainOfResponsibilityDesignPattern/ChainOfResponsibilityDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionsFrameWork/CollectionsFrameWork.iml" filepath="$PROJECT_DIR$/CollectionsFrameWork/CollectionsFrameWork.iml" />
       <module fileurl="file://$PROJECT_DIR$/CommanDesignPattern/CommanDesignPattern.iml" filepath="$PROJECT_DIR$/CommanDesignPattern/CommanDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/DecoratorDesignPattern/DecoratorDesignPattern.iml" filepath="$PROJECT_DIR$/DecoratorDesignPattern/DecoratorDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LowLevelDesignLearning.iml" filepath="$PROJECT_DIR$/.idea/LowLevelDesignLearning.iml" />
