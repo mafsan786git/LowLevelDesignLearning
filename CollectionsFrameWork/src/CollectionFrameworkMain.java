@@ -1,4 +1,5 @@
 import CollectionsCheck.ComparatorAndComparable;
+import CollectionsCheck.DQueue;
 
 public class CollectionFrameworkMain {
     public static void main(String[] args) {
@@ -15,10 +16,13 @@ public class CollectionFrameworkMain {
 //        PriorityQueueImpl priorityQueue = new PriorityQueueImpl();
 //        priorityQueue.usePriorityQueue();
 
-        ComparatorAndComparable comparatorAndComparable = new ComparatorAndComparable();
-        comparatorAndComparable.withoutComparator();
-        comparatorAndComparable.useComparator();
-        comparatorAndComparable.useComparable();
+//        ComparatorAndComparable comparatorAndComparable = new ComparatorAndComparable();
+//        comparatorAndComparable.withoutComparator();
+//        comparatorAndComparable.useComparator();
+//        comparatorAndComparable.useComparable();
+
+        DQueue dQueue = new DQueue();
+        dQueue.useDeque();
 
     }
 }
