@@ -2,7 +2,7 @@
  * This class implements the Singleton design pattern using lazy initialization.
  * The Singleton pattern ensures that only one instance of a class is created and provides a global point of access to it.
  */
-class LazyInitialisation {
+public class LazyInitialisation {
     /**
      * The single instance of the LazyInitialisation class.
      */
