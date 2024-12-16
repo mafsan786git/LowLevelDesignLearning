@@ -9,7 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/LowLevelDesignLearning.iml" filepath="$PROJECT_DIR$/.idea/LowLevelDesignLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/Multithreading/Multithreading.iml" filepath="$PROJECT_DIR$/Multithreading/Multithreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObserverDesignPattern/ObserverDesignPattern.iml" filepath="$PROJECT_DIR$/ObserverDesignPattern/ObserverDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SolidPrinciples/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple.iml" filepath="$PROJECT_DIR$/SolidPrinciples/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingletonDesignPattern/SingletonDesignPattern.iml" filepath="$PROJECT_DIR$/SingletonDesignPattern/SingletonDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SolidPrinciples/SolidPrinciples.iml" filepath="$PROJECT_DIR$/SolidPrinciples/SolidPrinciples.iml" />
       <module fileurl="file://$PROJECT_DIR$/StategyDesignPattern/StategyDesignPattern.iml" filepath="$PROJECT_DIR$/StategyDesignPattern/StategyDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/TicTacToe/TicTacToe.iml" filepath="$PROJECT_DIR$/TicTacToe/TicTacToe.iml" />
     </modules>
