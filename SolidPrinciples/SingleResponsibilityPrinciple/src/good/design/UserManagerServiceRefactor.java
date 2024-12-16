@@ -2,12 +2,12 @@ package good.design;
 
 import datamodel.UserDetails;
 
-public class UserManagerServiceRefractor {
+public class UserManagerServiceRefactor {
     private final EmailService emailService;
     private final UserRepository userRepository;
     private final UserValidation userValidation;
 
-    public UserManagerServiceRefractor(EmailService emailService, UserRepository userRepository, UserValidation userValidation) {
+    public UserManagerServiceRefactor(EmailService emailService, UserRepository userRepository, UserValidation userValidation) {
         this.emailService = emailService;
         this.userRepository = userRepository;
         this.userValidation = userValidation;

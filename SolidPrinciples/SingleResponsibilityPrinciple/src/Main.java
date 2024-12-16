@@ -20,15 +20,15 @@ public class Main {
         //good design code
         UserDetails userDetailsGood = new UserDetails("Bob","bob@gmail.com");
         UserValidation userValidation = new UserValidation(new EmailValidation());
-        UserManagerServiceRefractor userManagerServiceRefractor = new UserManagerServiceRefractor(new EmailService(), new UserRepository(),userValidation);
-        String registerUsers = userManagerServiceRefractor.registerUsers(userDetailsGood);
+        UserManagerServiceRefactor userManagerServiceRefactor = new UserManagerServiceRefactor(new EmailService(), new UserRepository(),userValidation);
+        String registerUsers = userManagerServiceRefactor.registerUsers(userDetailsGood);
         System.out.println(registerUsers);
 
         System.out.println();
         System.out.println();
 
         UserDetails userDetailsGood2 = new UserDetails("Bob","bob@gmailcom");
-        registerUsers = userManagerServiceRefractor.registerUsers(userDetailsGood2);
+        registerUsers = userManagerServiceRefactor.registerUsers(userDetailsGood2);
         System.out.println(registerUsers);
 
     }
