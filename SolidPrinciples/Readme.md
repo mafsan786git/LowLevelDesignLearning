@@ -3,7 +3,7 @@ Definition: A class should have only one reason to change.
 
 Explanation: Each class should focus on a single functionality or responsibility. If a class has multiple responsibilities, it can lead to tightly coupled code and make modifications risky.
 
-Example: Instead of creating a UserManager class that handles user data, authentication, and logging, separate these into UserData, AuthService, and Logger.
+Example: Instead of creating a UserManager class that handles validation user data, sending email, separate these into UserService, EmailService, and Validation.
 
 Please look at the following code :
 **Bad Design**
